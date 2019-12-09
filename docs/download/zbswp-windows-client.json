@@ -1,0 +1,15 @@
+{
+    "package": {
+        "title": "Windows 客户端",
+        "icon": "https://release.bitwormhole.com/resources/icon/windows.png",
+        "version": "10.6.6",
+        "sha256sum": "c96d560a1a7601c288d6e2da85235251b073cb8c90833eef78030a16b41935b0",
+        "size": 885,
+        "date": 159000000000,
+        "packageFileName": "hello.jar",
+        "packageFileUrl": "https://release.bitwormhole.com/test.pack/1.0-test/hello.jar",
+        "visible": true,
+        "enable": true,
+        "description": ""
+    }
+}
